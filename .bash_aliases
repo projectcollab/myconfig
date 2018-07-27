@@ -29,6 +29,7 @@ alias ldim='lando db-import'
 alias ldc='lando init'
 
 alias ..='cd ..'
+alias cl='clear'
 
 alias vz='v ~/.zshrc'
 alias ra='ranger'
