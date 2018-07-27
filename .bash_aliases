@@ -4,7 +4,7 @@ alias sau='sudo apt update'
 alias saup='sudo apt upgrade'
 alias sai='sudo apt install'
 
-alias appno='cd ~/Documents/appnovation'
+alias wrk='cd ~/Documents/appnovation'
 alias reload='source ~/.zshrc'
 
 alias v='vim'
@@ -33,3 +33,5 @@ alias cl='clear'
 
 alias vz='v ~/.zshrc'
 alias ra='ranger'
+
+alias conf='cd ~/myconfig'
