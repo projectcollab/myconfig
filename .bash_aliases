@@ -26,6 +26,7 @@ alias ldd='lando drush'
 alias ldt='lando ssh'
 alias ldi='lando info'
 alias ldim='lando db-import'
+alias ldc='lando init'
 
 alias ..='cd ..'
 
